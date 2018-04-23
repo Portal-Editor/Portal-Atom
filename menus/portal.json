@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle portal",
+        "command": "portal:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "portal",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "portal:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

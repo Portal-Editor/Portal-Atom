@@ -1,0 +1,18 @@
+{
+  "name": "Portal",
+  "main": "./lib/portal",
+  "version": "0.0.0",
+  "description": "Atom package for Portal Editor",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "portal:toggle"
+  },
+  "repository": "https://github.com/Portal-Editor/Portal-Atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
