@@ -1,6 +1,9 @@
 # Portal-Atom
 An atom package for Portal
 
+## Code structure
+- use [etch](https://github.com/atom/etch) to build atom elements
+
 ## Development Instruction
 As the package has not been release yet, you cannot install it from the https://atom.io/packages. Please follow these instruction on developing purpose:
 
