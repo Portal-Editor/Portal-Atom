@@ -1,6 +1,6 @@
 {
   "name": "Portal",
-  "main": "./lib/portal",
+  "main": "./index.js",
   "version": "0.0.0",
   "description": "Atom package for Portal Editor",
   "keywords": [
@@ -14,5 +14,12 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
   }
 }
