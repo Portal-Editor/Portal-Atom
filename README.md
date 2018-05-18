@@ -9,13 +9,10 @@ An atom package for Portal
 As the package has not been release yet, you cannot install it from the https://atom.io/packages. Please follow these instruction on developing purpose:
 
 - Install the latest version [Atom](https://atom.io/) and [Git](https://git-scm.com/) in your environment
-<<<<<<< HEAD
-- Clone this repo to your local system  
-=======
 - Clone this repo to your local system and intall the dependencies  
->>>>>>> e7db42adb90c16ad92e9232255960c7833b912e9
 
       git clone https://github.com/Portal-Editor/Portal-Atom.git
+      cd Portal-Atom
       npm i
 - link the repo to Atom
 
@@ -23,3 +20,11 @@ As the package has not been release yet, you cannot install it from the https://
 - start atom in dev mode
 
       atom -d
+- Two way to toggle Portal in Atom:   
+  1. Press `Ctrl/Cmd + Shift + P`, and input the command `Portal: toggle`
+  2. or simply press `Ctrl + Alt + O`(may not work in MacOS)
+  
+  You can see the "Portal" is shown in the right of status bar.
+
+# Usage
+TBC
