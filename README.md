@@ -38,8 +38,8 @@ As the package has not been release yet, you cannot install it from https://atom
 
 ## Share your workspace
 - Add an existed project folder that you want to co-work with others to your current Atom window. It can be a folder with some existed directories and files.
-- Click on the **Portal** button on status bar. Input your user ID and create an ID to your portal. Click **Go**.
-- Tell others your portal ID and wait for their join~
+- Click on the **Portal** button on status bar. Input your user ID and turn on **Share**.
+- You can see your portal Id. Tell others your portal ID and wait for their join~
 
 ## Join an existed portal
 - Add an empty project folder to Atom
