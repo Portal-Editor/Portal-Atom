@@ -15,6 +15,7 @@
   "dependencies": {
     "archiver": "^2.1.1",
     "bluebird": "^3.5.1",
+    "chokidar": "^2.0.3",
     "etch": "^0.12.6",
     "ot-text": "^1.0.1",
     "sharedb": "1.0.0-beta.7",
