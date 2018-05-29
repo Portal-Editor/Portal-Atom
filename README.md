@@ -1,6 +1,8 @@
 # Portal-Atom
 An atom package for Portal
 
+![](doc/demo.gif)
+
 ## Code structure
 - use [etch](https://github.com/atom/etch) to build atom elements
 - use async/await
