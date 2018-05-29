@@ -8,7 +8,13 @@
 
 @font-family-monospace: Menlo, Consolas, 'DejaVu Sans Mono', monospace;
 @join-leave-button-width: 50px;
-.portal {
+.portal-inline-indicator {
+  top: -2 * @component-line-height;
+  height: 2 * @component-line-height;
+  .username-tooltip {
+    background-color: @tool-panel-background-color;
+    border-color: @base-border-color;
+  }
 }
 
 .portal-tooltips {
