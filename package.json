@@ -1,5 +1,5 @@
 {
-  "name": "Portal",
+  "name": "portal",
   "main": "./index.js",
   "version": "0.0.0",
   "description": "Atom package for Portal Editor",
