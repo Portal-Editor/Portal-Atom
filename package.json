@@ -19,6 +19,7 @@
     "etch": "^0.12.6",
     "fs-extra": "^6.0.1",
     "ot-text": "^1.0.1",
+    "path": "^0.12.7",
     "sharedb": "1.0.0-beta.7",
     "streamifier": "^0.1.1",
     "tachyons": "^4.9.1",
