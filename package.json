@@ -1,7 +1,7 @@
 {
   "name": "portal",
   "main": "./index.js",
-  "version": "0.3.3",
+  "version": "0.4.0",
   "description": "Atom package for Portal Editor",
   "keywords": [],
   "activationCommands": {
@@ -23,7 +23,7 @@
     "sharedb": "1.0.0-beta.7",
     "streamifier": "^0.1.1",
     "tachyons": "^4.9.1",
-    "unzip": "^0.1.11",
+    "unzipper": "^0.9.7",
     "websocket-push-stream": "^0.1.0",
     "ws": "^2.2.2"
   },
